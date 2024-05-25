@@ -1,4 +1,5 @@
-# Introduction
-hi im taehyun
-nice to meet you
-and you??
+# introduce_myself
+Hi, Im taehyun
+My Hometown is 'Busan"
+my age is 23 years old
+Thank you!
