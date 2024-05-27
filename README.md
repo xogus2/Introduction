@@ -5,4 +5,5 @@ my age is 23 years old
 Thank you!  
 YES new! new2
 ## 1. 취미 업데이트
-2. 특기 업데이트
+## 2. 특기 업데이트
+E.O.D
